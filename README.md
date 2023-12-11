@@ -7,7 +7,7 @@ This repository contains files for the capstone project for the [database engine
 * Rendering the data model as a database with the forward engineering feature
 * Tool(s) used: MySQL Workbench
 
-![ER diagram]('/db-capstone-project/little-lemon-dm.png')
+![ER diagram](./little-lemon-dm.png)
 
 
 ## Database queries
@@ -21,7 +21,7 @@ This repository contains files for the capstone project for the [database engine
 * Working with a large dataset and performing data analytics and visualization with Tableau
 * Relevant files: `little-lemon-dm.mwb`
 
-![visualization]('./visualization.png')
+![visualization](./visualization.png)
 
 ## Database client
 * Connecting to database from Jupyter Notebook and executing queries with MySQL Connector
