@@ -7,8 +7,7 @@ This repository contains files for the capstone project for the [database engine
 * Rendering the data model as a database with the forward engineering feature
 * Tool(s) used: MySQL Workbench
 
-![ER diagram](./little-lemon-dm.png)
-
+<img src="little-lemon-dm.png" alt="ER diagram" width="200"/>
 
 ## Database queries
 
