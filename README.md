@@ -1,5 +1,5 @@
 # Database Engineer Capstone
-This repository contains files for the capstone project for the [database engineering course](https://www.coursera.org/learn/database-engineer-capstone/) offered by Meta. Through this class, I learned the following:
+This repository contains files for the capstone project for the [database engineering course](https://www.coursera.org/learn/database-engineer-capstone/) offered by Meta ([link](https://www.coursera.org/account/accomplishments/verify/5MM5EMSF9B82) to credential). Through this class, I learned the following:
 
 ## Data modeling
 
